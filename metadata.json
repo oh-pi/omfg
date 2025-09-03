@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smart Router UI",
+  "description": "A web interface to interact with the local Gemini Smart Router API. This UI classifies user prompts as 'TRIVIAL' or 'COMPLEX' for demonstration and then streams responses from the local server.",
+  "requestFramePermissions": []
+}
